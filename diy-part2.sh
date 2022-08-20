@@ -38,8 +38,7 @@ git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-ipt
 #添加smartdns
 #git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 
-git clone https://github.com/messense/aliyundrive-webdav
-git clone https://github.com/messense/luci-app-aliyundrive-webdav.git package/luci-app-aliyundrive-webdav
+
 # Add luci-theme-argon
 #git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 #git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
