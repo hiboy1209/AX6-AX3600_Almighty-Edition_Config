@@ -1,7 +1,17 @@
-src-git packages https://git.openwrt.org/feed/packages.git
-src-git luci https://git.openwrt.org/project/luci.git
-src-git routing https://git.openwrt.org/feed/routing.git
-src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git packages https://git.openwrt.org/feed/packages.git;openwrt-22.03
+src-git luci https://git.openwrt.org/project/luci.git;openwrt-22.03
+src-git routing https://git.openwrt.org/feed/routing.git;openwrt-22.03
+src-git kiddin9 https://github.com/kiddin9/openwrt-packages.git;master
+
+
+
+
+
+
+###-git packages https://git.openwrt.org/feed/packages.git
+###src-git luci https://git.openwrt.org/project/luci.git
+###-git routing https://git.openwrt.org/feed/routing.git
+###src-git telephony https://git.openwrt.org/feed/telephony.git
 ###src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 ###src-git Boos https://github.com/Boos4721/OpenWrt-Packages.git
